@@ -1,4 +1,4 @@
-Big data engineer
+Big data engineer.
 -------------------:
 skill required in this field
 1) python
