@@ -1,0 +1,17 @@
+Big data engineer
+-------------------:
+skill required in this field
+1) python
+2)sql/ no sql : mongo DB , cassandra base
+3)ETL and warehousing: talend information
+4) data mining
+5)hadoap Apache spark ,kafka
+6)os: linux , window
+-------------------------:
+Most important is aws,azure,google cloud
+---------------------------------------------------------
+BOOK
+https://cloudera2017.files.wordpress.com/2019/01/bart-baesens-analytics-in-a-big-data-world.-the-essential-guide-to-data-science-and-its-applications-wiley-2014.pdf
+---------------------------------------------------------
+lesson--1 notes
+https://drive.google.com/file/d/1EnxQg6uWuMVioAqbXwyurJQGQqWlMBwO/view
