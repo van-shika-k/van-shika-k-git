@@ -1,1 +1,2 @@
-niceeeeee
+list = [apple, name ,age ,number]
+print(list)
